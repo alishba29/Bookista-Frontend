@@ -18,7 +18,7 @@ const Cart = () => {
     const fetchCart = async () => {
       try {
         const res = await axios.get(
-          "https://backend-api-2x5r.vercel.app/api/v1/get-user-cart",
+          "https://bookista.vercel.app/api/v1/get-user-cart",
           { headers }
         );
         setCart(res.data.data);

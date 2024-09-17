@@ -21,7 +21,7 @@ const AllOrders = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await axios.get("https://backend-api-2x5r.vercel.app/api/v1/get-all-orders", { headers });
+        const response = await axios.get("https://bookista.vercel.app/api/v1/get-all-orders", { headers });
         setAllOrders(response.data.data);
       } catch (error) {
         console.error("Error fetching orders:", error);

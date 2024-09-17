@@ -22,7 +22,7 @@ const ViewBookDetails = () => {
     useEffect(() => {
         const fetch = async() =>{
             const response = 
-            await axios.get(`http://localhost:3000/api/v1/get-book-by-id/${id}`);
+            await axios.get(`https://bookista.vercel.app/api/v1/get-book-by-id/${id}`);
             console.log(response);
             setData(response.data.data);
         }

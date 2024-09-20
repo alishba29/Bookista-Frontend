@@ -38,6 +38,6 @@ Upon successful login:
 
 ## About this Project
 
-I built this project by following along with a fantastic YouTube tutorial (https://www.youtube.com/watch?v=KWTRGuUXMTY&list=PLh9snHvfAj6IwguqPwSJx8zFTxBwRSwTT)). It was a great learning experience where I picked up a lot of concepts, including full-stack development with the MERN stack.
+I built this project by following along with a fantastic YouTube tutorial (https://tinyurl.com/48sfsv8y). It was a great learning experience where I picked up a lot of concepts, including full-stack development with the MERN stack.
 The original tutorial didn’t come with a GitHub repository, so I decided to put one together myself! Along the way, I made sure to apply what I learned, adding some extra functionality and refining the code to make it my own.
   

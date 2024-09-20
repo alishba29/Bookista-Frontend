@@ -1,4 +1,4 @@
-📚 Bookista - Online Bookstore
+#📚 Bookista - Online Bookstore
 
 Welcome to **Bookista**, an interactive full-stack online bookstore built with the MERN (MongoDB, Express, React, Node.js) stack. This platform provides a seamless experience for both **admin** and **users**, with authentication implemented using JWT (JSON Web Tokens) and state management handled by Redux and Redux Toolkit. The application allows users to explore books, manage orders, and much more.
 

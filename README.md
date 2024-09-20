@@ -19,7 +19,7 @@ Welcome to **Bookista**, an interactive full-stack online bookstore built with t
   
 ## Technology Stack
 
-- **Frontend:** React.js, React Router, Redux, Redux Toolkit
+- **Frontend:** Tailwind CSS, React.js, React Router, Redux, Redux Toolkit
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Authentication:** JWT (JSON Web Tokens)

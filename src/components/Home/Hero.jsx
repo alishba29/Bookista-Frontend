@@ -9,7 +9,7 @@ const Hero = () => {
           Discover Your Next Page Turner
         </h1>
         <p className="mt-4 text-xl text-zinc-300 text-center lg:text-left">
-          Discover Amazing Stories, Learn New Things, and Spark Your Imagination with Our Curated Collection of Books
+          Discoverr Amazing Stories, Learn New Things, and Spark Your Imagination with Our Curated Collection of Books
         </p>
         <div className="mt-8">
           <Link 
